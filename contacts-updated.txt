@@ -1,0 +1,22 @@
+name Posephine Esmerelda Bloggs
+email j.e.bloggs@gmail.com
+birthday 13-05-1980
+phone 16549853
+address 102 Smith St, Summer hill, NSW 2130
+
+name Robert Taylor
+email robert.taylor@gmail.com
+birthday 3-6-2008
+address 36 Carrington St, Summer Hill, NSW 2130
+
+name Jo Bloggs
+birthday 08-07-1900
+phone 88884444
+address 9001 Chester Crescent, Chatswood, NSW 2057
+
+name Michael Willianm
+email michael@fanfare.com.au
+birthday 01-4-1950
+phone 19876245
+address 37 Barton Ave, Haberfield, NSW 2045
+
